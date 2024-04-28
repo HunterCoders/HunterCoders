@@ -1,16 +1,19 @@
-### Hi there 👋
+Hello, World! 👋
+Welcome to my GitHub profile! I'm Anurag Sinha, a passionate Full Stack, ML, and Java Developer based in free to relocate. Here you'll find a variety of projects reflecting my interests, skills, and contributions to the open-source community.
 
-<!--
-**HunterCoders/HunterCoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+💼 Currently a student at VIT Vellore.
+🌱 Always learning and exploring new technologies.
+💬 Open to collaboration and eager to contribute to meaningful projects.
+📫 Reach me at anu.sin2002@gmail.com.
+My Interests
+👨‍💻 Software Development
+🤖 Machine Learning and AI
+🌐 Web Development
+📱 Computer Networks
+🎨 Photoshop
+Cyber Security
+Get in Touch
+LinkedIn: linkedin.com/in/anuragsinhamca/
+Twitter: https://twitter.com/Anurag7209
+Feel free to explore my repositories and don't hesitate to reach out. Let's connect and build amazing things together!
